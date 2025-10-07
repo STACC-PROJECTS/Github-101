@@ -22,6 +22,9 @@ const App = () => {
       <UserProfile name="Ramees" image="/images/ramees.jpg" >
         Msc AI 1st year
           </UserProfile>
+        <UserProfile name="Vineeth" image="IMG_20230812_103346 (1).jpg" >
+        Mca 1st year
+          </UserProfile>
          
       <UserProfile name="Ramees" image="/images/ramees.jpg" >
         Msc AI 1st year
