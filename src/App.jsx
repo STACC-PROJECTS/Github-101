@@ -39,7 +39,9 @@ const App = () => {
         Msc AI 1st year
           </UserProfile>
 
-          
+             <UserProfile name="Jeswin" image="/images/ramees2.jpeg" >
+        Msc AI 1st year
+          </UserProfile>
                 
  <UserProfile name="Aditya R Nair" image="/images/Aditya at IITMM.jpg" >
         Integrated MCA
