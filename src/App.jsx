@@ -22,8 +22,15 @@ const App = () => {
       <UserProfile name="Ramees" image="/images/ramees.jpg" >
         Msc AI 1st year
           </UserProfile>
+
+        <UserProfile name="GhanShyam" image="/images/ramees.jpg" >
+      <UserProfile name="Billy" image="/images/ramees2.jpeg" >
+        Msc AI 1st year
+          </UserProfile>
                 
- 
+ <UserProfile name="Aditya R Nair" image="/images/Aditya at IITMM.jpg" >
+        Integrated MCA
+          </UserProfile>
 
     </div>
 </center>
