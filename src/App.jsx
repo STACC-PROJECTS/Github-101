@@ -5,49 +5,45 @@ import UserProfile from "./components/UserProfile"
 const App = () => {
   return (
     <>
-    
-    
-    
-
   <center>  <h1> STACC GITHUB 101 </h1> 
-    
-    
-     <div  >
-    
-      
+     <div >
       <UserProfile name="Akshay" image= "/images/akshay.jpg">
         Msc AI 2nd year           
-         </UserProfile>     
+     </UserProfile>     
           
       <UserProfile name="Ramees" image="/images/ramees.jpg" >
         Msc AI 1st year
-          </UserProfile>
+      </UserProfile>
+
         <UserProfile name="Vineeth" image="IMG_20230812_103346 (1).jpg" >
         Mca 1st year
-          </UserProfile>
+        </UserProfile>
          
       <UserProfile name="Ramees" image="/images/ramees.jpg" >
         Msc AI 1st year
-          </UserProfile>
+      </UserProfile>
 
-        <UserProfile name="GhanShyam" image="/images/ramees.jpg" >
+    <UserProfile name="GhanShyam" image="/images/ramees.jpg" >
+          Msc AI 1st year
+     </UserProfile>
+
       <UserProfile name="Billy" image="/images/ramees2.jpeg" >
         Msc AI 1st year
-          </UserProfile>
+      </UserProfile>
 
-            <UserProfile name="elon" image="/images/ramees2.jpeg" >
+        <UserProfile name="elon" image="/images/ramees2.jpeg" >
         Msc AI 1st year
           </UserProfile>
           
-         <UserProfile name="Gopika" image= "/images/1397596.jpg">
+       <UserProfile name="Gopika" image= "/images/1397596.jpg">
         MCA 1st year           
-         </UserProfile> 
+       </UserProfile> 
 
-             <UserProfile name="Jeswin" image="/images/ramees2.jpeg" >
+       <UserProfile name="Jeswin" image="/images/ramees2.jpeg" >
         Msc AI 1st year
           </UserProfile>
-                
- <UserProfile name="Aditya R Nair" image="/images/Aditya at IITMM.jpg" >
+                  
+         <UserProfile name="Aditya R Nair" image="/images/Aditya at IITMM.jpg" >
         Integrated MCA
           </UserProfile>
 
@@ -57,4 +53,5 @@ const App = () => {
     
   </>
   );
-};export default App;
+};
+export default App;
